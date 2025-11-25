@@ -3,7 +3,7 @@
   <h3 align="center">Frontend Engineer</h3>
   
   <p align="center">
-Bridging the gap between design and code to build products that scale.
+    Bridging the gap between design and code to build products that scale.
   </p>
 
   <a href="https://akeye-portfolio.netlify.app/">
@@ -15,6 +15,9 @@ Bridging the gap between design and code to build products that scale.
   <a href="https://www.linkedin.com/in/akeye001/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://x.com/omo_akeye">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+  </a>
 </div>
 
 <br />
@@ -24,7 +27,7 @@ Bridging the gap between design and code to build products that scale.
 I am a **Frontend Engineer**, passionate about crafting intuitive user experiences. I use code to build software that solves everyday problems, turning static mockups into interactive, responsive, and functional applications.
 
 - 👯 I’m looking to collaborate on **Open Source and scalable Frontend projects**.
-- 💬 Ask me about **Javascript, Typescript,React, Next.js, Node js and Modern UI Design**.
+- 💬 Ask me about **Javascript, Typescript, React, Next.js, Node.js and Modern UI Design**.
 - ⚡ Fun fact: I love building in public and refining UI interactions.
 
 ---
