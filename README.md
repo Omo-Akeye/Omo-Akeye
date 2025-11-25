@@ -1,9 +1,9 @@
 <div align="center">
   <h1 align="center">Hi, I'm Saheed Akeye 👋</h1>
-  <h3 align="center">Frontend Developer | React & Next.js Specialist</h3>
+  <h3 align="center">Frontend Engineer</h3>
   
   <p align="center">
-    I build pixel-perfect, accessible, and high-performance web applications.
+Bridging the gap between design and code to build products that scale.
   </p>
 
   <a href="https://akeye-portfolio.netlify.app/">
@@ -21,11 +21,10 @@
 
 ### 👨‍💻 About Me
 
-I am a Frontend Developer, passionate about crafting intuitive user experiences. I use code to build softwares that solves our every day problem, turning static mockups into interactive, responsive, and functional applications. 
+I am a **Frontend Engineer**, passionate about crafting intuitive user experiences. I use code to build software that solves everyday problems, turning static mockups into interactive, responsive, and functional applications.
 
-- 🔭 I’m currently working on **Function Studio** and **Emarix (E-commerce Platform)**.
 - 👯 I’m looking to collaborate on **Open Source and scalable Frontend projects**.
-- 💬 Ask me about **React, Next.js, and Modern UI Design**.
+- 💬 Ask me about **Javascript, Typescript,React, Next.js, Node js and Modern UI Design**.
 - ⚡ Fun fact: I love building in public and refining UI interactions.
 
 ---
