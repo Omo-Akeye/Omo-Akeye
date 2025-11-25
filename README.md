@@ -46,19 +46,6 @@ I am a Frontend Developer, passionate about crafting intuitive user experiences.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omo-Akeye&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Akeye's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omo-Akeye&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omo-Akeye&theme=dark&hide_border=true&background=0D1117" alt="Streak" />
-</div>
-
----
-
 <div align="center">
   <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=Omo-Akeye&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
